@@ -21,8 +21,9 @@ yelp
 ```
 
 ### Installation
+Clone the repo
 ```
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/QianhuiWang080/yelp.git
 ```
 
 ### Sources
@@ -47,7 +48,13 @@ git clone https://github.com/github_username/repo_name.git
   - checkIn_df
     - business_id (string)
     - date (string)
+### Contact
+- email: qianhui_wang030@outlook.com
+- Project Link: https://github.com/QianhuiWang080/yelp
 
+### Acknowledgments
+The dataframe "checkIn_df" has a column name date, but the schema of it is string, fail to change it to timestamp due to error below, becareful when using it.
+"SparkUpgradeException: [INCONSISTENT_BEHAVIOR_CROSS_VERSION.PARSE_DATETIME_BY_NEW_PARSER] You may get a different result due to the upgrading to Spark >= 3.0:"
 
 
   
