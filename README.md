@@ -27,12 +27,12 @@ git clone https://github.com/QianhuiWang080/yelp.git
 ```
 
 ### Reference Sources
-  - #####PySpark Schema Structure to Read Nested Data
+  - ##### PySpark Schema Structure to Read Nested Data
     This link provides useful information about reading nested data using PySpark
     
     https://stackoverflow.com/questions/71545966/pyspark-schema-structure-to-read-nested-data
     
-  - #####Databricks PySpark: Explode and Pivot Columns
+  - ##### Databricks PySpark: Explode and Pivot Columns
     This article introduces the methods of aggregation groupBy and explode
 
     https://medium.com/@shuklaprashant9264/databricks-pyspark-explode-and-pivot-columns-a8d1b4e713f1#:~:text=The%20explode%20function%20in%20PySpark,of%20the%20original%20array%20column.&text=As%20you%20can%20see%2C%20the,numbers%20column%20into%20multiple%20rows.
