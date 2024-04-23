@@ -1,6 +1,7 @@
 # Yelp data
-ETL the yelp date
-### Files needed
+This project primarily focuses on Extracting, Transforming, and Loading (ETL) Yelp data. The goal of the project is to prepare the Yelp data in a structured and organized format that is suitable for downstream analytics.
+
+### Files needed.
 The data list below for this project can be found in the "original_data" folder. This folder contains the raw data files in JSON format that were used for the ETL process. You can explore these files to understand the structure and content of the raw data before it was transformed and loaded into the Spark DataFrame.
   - ._yelp_academic_dataset_business.json
   - ._yelp_academic_dataset_checkin.json
@@ -57,6 +58,7 @@ git clone https://github.com/QianhuiWang080/yelp.git
     - business_id (string)
     - date (string)
 ### Contact
+- name: Qianhui Wang
 - email: qianhui_wang030@outlook.com
 - Project Link: https://github.com/QianhuiWang080/yelp
 
