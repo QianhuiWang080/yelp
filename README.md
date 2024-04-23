@@ -1,11 +1,12 @@
 # Yelp data
 ETL the yelp date
 ### Files needed
+The data list below for this project can be found in the "original_data" folder. This folder contains the raw data files in JSON format that were used for the ETL process. You can explore these files to understand the structure and content of the raw data before it was transformed and loaded into the Spark DataFrame.
   - ._yelp_academic_dataset_business.json
   - ._yelp_academic_dataset_checkin.json
   - ._yelp_academic_dataset_review.json
   - ._yelp_academic_dataset_tip.json
-
+  
 
 ### File Structure
 ```
